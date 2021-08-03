@@ -1,0 +1,3 @@
+char* saidul(){
+return “saidul”;
+}
